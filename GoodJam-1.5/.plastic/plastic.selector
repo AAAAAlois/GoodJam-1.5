@@ -1,0 +1,4 @@
+repository "ProjectGoodJam@ssl://yywj-goodjam@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/Dofin/ran2/nemo" changeset "121"      
+     

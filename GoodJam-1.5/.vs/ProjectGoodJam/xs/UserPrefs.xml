@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{038BF378-0D46-213E-5237-F15D985FA123}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Earth/Points/O_point.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/Presenters/CollabHistoryPresenter.cs" Line="3" Column="23" />
+      <File FileName="Library/PackageCache/com.unity.2d.spriteshape@3.0.14/Editor/SpriteShapeControllerEditor.cs" />
+      <File FileName="Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor/Collab/CollabToolbarWindow.cs" />
+      <File FileName="Assets/Script/XLog.cs" />
+      <File FileName="Assets/Script/Earth/Points/O_point.cs" Line="27" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectGoodJam" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3fc20c1e-a2e0-4102-b49b-9d438302e461" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
